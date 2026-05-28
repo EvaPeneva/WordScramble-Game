@@ -1,0 +1,22 @@
+Word Scramble - Added Features
+
+1. Only 5-letter words are loaded from words.txt.
+2. New Game button restarts the current game.
+3. Score system:
+   - Correct word without Hint = +10 points
+   - Correct word with Hint = +5 points
+   - Show Answer = 0 points
+4. Hint button shows the first and last letter.
+5. High Score is saved in highscore.txt.
+6. English/Bulgarian language switch.
+7. Light/Dark theme switch.
+8. Win message after 10 guessed words.
+9. Show Answer button.
+10. Difficulty modes:
+    - Easy: no timer
+    - Hard: 30-second timer for each word
+
+Score starts from 0 when the app opens and when New Game is clicked.
+High Score stays saved because it is the best result.
+
+UI fix: The form is wider so Bulgarian buttons and timer text fit correctly.
