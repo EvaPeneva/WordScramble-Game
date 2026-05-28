@@ -57,3 +57,9 @@ Word Scramble is a C# Windows Forms game where the player sees a scrambled 5-let
 ## What I added to make the project original
 
 I added language switching, theme switching, scoring, high score, hint, show answer, new game, difficulty modes and a timer in Hard mode. These features make the game more interactive and easier to present.
+
+## Download
+
+You can download the first release of the game here:
+
+[Download Word Scramble v1.0](https://github.com/EvaPeneva/WordScramble-Game/releases/tag/v1.0)
